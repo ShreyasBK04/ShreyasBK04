@@ -10,7 +10,7 @@ Skilled in designing REST APIs, developing responsive UIs, and managing database
 
 ## 🚀 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,docker,postman,vscode,idea,c" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,c,js,html,css,mysql,git,github,docker,postman,vscode,idea" />
 </p>
 
 ---
