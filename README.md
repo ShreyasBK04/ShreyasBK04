@@ -6,6 +6,22 @@ Skilled in designing REST APIs, developing responsive UIs, and managing database
 🔭 Building real-world, production-ready applications    
 ⚡ Focused on scalability, performance & clean code  
 
+---
+
+## 🚀 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,docker,postman,vscode,idea,c" />
+</p>
+
+---
+
+## 🔥 My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasBK04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasBK04&theme=tokyonight" />
+</p>
+
+---
 <!--
 **ShreyasBK04/ShreyasBK04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
