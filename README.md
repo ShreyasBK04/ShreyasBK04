@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreyas BK
+
+Full Stack Developer with hands-on experience in building scalable applications using Java, Spring Boot, and React.
+Skilled in designing REST APIs, developing responsive UIs, and managing databases.
+
+🔭 Building real-world, production-ready applications    
+⚡ Focused on scalability, performance & clean code  
 
 <!--
 **ShreyasBK04/ShreyasBK04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
