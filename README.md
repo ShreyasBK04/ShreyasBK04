@@ -1,38 +1,47 @@
-# 👋 Hi, I'm Shreyas BK
 
-Full Stack Developer with hands-on experience in building scalable applications using Java, Spring Boot, and React.
-Skilled in designing REST APIs, developing responsive UIs, and managing databases.
+<h1 align="center">Hi 👋, I'm Shreyas BK</h1>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
-🔭 Building real-world, production-ready applications    
-⚡ Focused on scalability, performance & clean code  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyasBK04&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,c,js,html,css,mysql,git,github,docker,postman,vscode,idea" />
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer with hands-on experience in building scalable applications  
+- ⚙️ Skilled in **Java, Spring Boot, React**  
+- 🌐 Strong in **REST APIs, UI development & database design**  
+- 🚀 Building real-world, production-ready applications  
+- ⚡ Focused on **scalability, performance & clean code**  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,docker,postman,vscode,idea" />
 </p>
 
 ---
 
 ## 🔥 My Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasBK04&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasBK04&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ShreyasBK04&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-<!--
-**ShreyasBK04/ShreyasBK04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="www.linkedin.com/in/shreyas-b-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shreyasbk25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
